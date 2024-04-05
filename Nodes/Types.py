@@ -1,0 +1,2 @@
+class TypeNode(Node):
+    pass
